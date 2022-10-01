@@ -1,6 +1,6 @@
 ## This is my learning process 😎
 ## .preview
-![To-Do List App](https://i.ibb.co/yNn1s8p/Screenshot-101.png)
+![Javascript Calculator App](https://i.ibb.co/yNn1s8p/Screenshot-101.png)
 
 ## .features
 - [x] css grid
