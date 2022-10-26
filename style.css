@@ -15,7 +15,7 @@ html {
   font-family: roboto;
 }
 section {
-  background: rgb(18, 26, 31);
+  background:rgb(218, 217, 217);
   min-height: 100vh;
   width: 100%;
   display: flex;
@@ -25,13 +25,15 @@ section {
 .container {
   width: 90%;
   max-width: 400px;
-  background-color: rgb(39, 55, 59);
+  background-color:orangered;
   border-radius: 8px;
   overflow: hidden;
+  box-shadow: 10px 10px 10px 4px #aaa;
 }
 .display {
-  background-color: rgb(182, 182, 182);
+  background-color: whitesmoke;
   height: 100px;
+  border-radius:8px;
   width: 100%;
   text-align: right;
   font-size: 30px;
@@ -57,7 +59,7 @@ section {
   grid-template: repeat(4, 1fr) / repeat(4, 1fr);
 }
 .button {
-  border: 0.5px solid rgba(92, 92, 92, 0.137);
+  border: 0.5px solid grey;
   display: inline-block;
   height: 100px;
   width: 100%;
