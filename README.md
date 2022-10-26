@@ -12,7 +12,14 @@
 - [x] Responsivity
 
 
-## .contact
-- Email: [basilxg321@gmail.com](mailto:basilxg321@gmail.com)
-- Instagram: [@mr.basil_pkt](https://instagram.com/mr.basil_pkt)
+## Support
+
+For support, email basilxg321@gmail.com
+
+
+## Authors
+
+- [@iambasilp](https://www.github.com/iambasilp)
+
+
 
