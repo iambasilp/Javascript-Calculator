@@ -7,7 +7,6 @@
 - [x] css flex
 - [x] dom manupulation
 - [x] functions
-- [x] some Vannila Javscript
 - [x] Cool and Nice theme
 - [x] Responsivity
 
