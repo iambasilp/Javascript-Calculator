@@ -1,6 +1,6 @@
 ## This is my learning process 😎
 ## .preview
-![Javascript Calculator App](https://i.ibb.co/yNn1s8p/Screenshot-101.png)
+![Javascript Calculator App](./images/preview.png)
 
 ## .features
 - [x] css grid
